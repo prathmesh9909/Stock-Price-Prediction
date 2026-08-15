@@ -456,7 +456,7 @@ JavaScript
 
 ## 👩‍💻 Author
 
-**Shravani Patil**
+**Prathmesh Patil**
 
 GitHub: https://github.com/prathmesh9909
 
